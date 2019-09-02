@@ -86,5 +86,4 @@ def get_hurdat():
     if filename is None:
         raise TypeError
     hurdat_csv=get(hurdat_base+filename).text
-    
     return hurdat_csv
