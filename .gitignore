@@ -1,1 +1,9 @@
 hurdat.db
+
+.vscode/
+
+.pylintrc
+
+*.pyc
+
+py_hurdat/__pycache__/
